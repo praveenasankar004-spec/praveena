@@ -19,6 +19,7 @@ elif(50<Total and 30>Total):
     print("Grade D")
 else:
     print("No Grade")
+print()
     
     
     
